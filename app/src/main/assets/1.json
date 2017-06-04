@@ -1,0 +1,32 @@
+{
+	"1":{
+	"heading":"What is kotlin?",
+	"desc1":"",
+	"content":[
+		{
+			"subheading":"",
+			"description":{
+							"under_desc":"",
+							"points":[
+								{
+									"exp":"",
+									"desc2":"Kotlin is a statically-typed programming language that runs on the Java Virtual Machine and also can be compiled to JavaScript source code or uses the LLVM compiler infrastructure. Its primary development is from a team of JetBrains programmers based in Saint Petersburg, Russia. While the syntax is not compatible with Java, Kotlin is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework.",
+									"java_code":"<div style='background:#FFFFFF; font-family: Courier New, Courier; font-size: 10pt; COLOR: #000000; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;'><strong><font color='#7f0055'>class</font></strong>&nbsp;Simple{&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;&nbsp;<strong><font color='#7f0055'>public</font></strong>&nbsp;<strong><font color='#7f0055'>static</font></strong>&nbsp;<strong><font color='#7f0055'>void</font></strong>&nbsp;main(String&nbsp;args[]){&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println(<font color='#2a00ff'>\"Hello&nbsp;Java\"</font>);&nbsp;&nbsp<br/>&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;<br/>}</div>",
+
+
+
+
+
+
+
+
+
+
+									"kotlin_code":""
+								}
+							]
+			}
+		}
+	]
+	}
+}

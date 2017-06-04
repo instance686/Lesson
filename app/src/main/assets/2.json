@@ -1,0 +1,135 @@
+{
+	"2":{
+		"heading":"Featues of Kotlin",
+		"desc1":"",
+		"content":[
+			{
+			"subheading":"Full Java Interoperability",
+			"description":{
+							"under_desc":"",
+							"points":[
+								{
+								"exp":"",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							}
+							]
+			}
+			},
+			{
+			"subheading":"Kotlin compiles to JVM bytecode or JS",
+			"description":{
+							"under_desc":"",
+							"points":[
+								{
+								"exp":"",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							}
+							]
+			}	
+			},
+			{
+			"subheading":"Null Safety in Kotlin",
+			"description":{
+							"under_desc":"",
+							"points":[
+								{
+								"exp":"",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							}
+							]
+			}	
+			},
+			{
+			"subheading":"Extension functions",
+			"description":{
+							"under_desc":"",
+							"points":[
+								{
+								"exp":"",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							}
+							]
+			}	
+			},
+			{
+			"subheading":"High order functions",
+			"description":{
+							"under_desc":"",
+							"points":[
+								{
+								"exp":"",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							}
+							]
+			}
+			},
+			{
+			"subheading":"Default and named arguments",
+			"description":{
+							"under_desc":"",
+							"points":[
+								{
+								"exp":"",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							}
+							]
+			}
+			},
+			{
+			"subheading":"Data class",
+			"description":{
+							"under_desc":"",
+							"points":[
+								{
+								"exp":"",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							}
+							]
+			}	
+			},
+			{
+			"subheading":"Data class",
+			"description":{
+							"under_desc":"",
+							"points":[
+								{
+								"exp":"",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							}
+							]
+			}	
+			},
+			{
+			"subheading":"Operator Overloading",
+			"description":{
+							"under_desc":"",
+							"points":[
+								{
+								"exp":"",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							}
+							]
+			}	
+			}
+
+		]
+	}
+}

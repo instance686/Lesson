@@ -1,0 +1,197 @@
+{
+	"3":{
+		"heading":"Kotlin vs Java",
+		"desc1":"",
+		"content":[
+			{
+			"subheading":"Some Java issues addressed in Kotlin",
+			"description":{
+							"under_desc":"",
+							"points":[
+							{
+								"exp":"Null references are controlled by the type system.",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},	
+							{
+								"exp":"Arrays in Kotlin are invariant",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"Kotlin has proper function types, as opposed to Java's SAM-conversions",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"Use-site variance without wildcards",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"Kotlin does not have checked exceptions",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							}
+
+							]
+
+							}
+			
+			},
+			{
+			"subheading":"What Kotlin has that Java does not",
+			"description":{
+							"under_desc":"",
+							"points":[
+							{
+								"exp":" Lambda expressions + Inline functions = performant custom control structures",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},	
+							{
+								"exp":"Null-safety",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"String templates",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"Properties",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"Primary constructors",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"First-class delegation",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"Type inference for variable and property types",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"Singletons",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":" Declaration-site variance & Type projections",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"Range expression",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"Operator overloading",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"Companion objects",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"Data classes",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"Separate interfaces for read-only and mutable collections",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							},
+							{
+								"exp":"Coroutines",
+								"desc2":"",
+								"java_code":"",
+								"kotlin_code":""
+							}
+
+							]
+
+							}
+			
+			},
+			{
+				"subheading":"What Kotlin has that Java does not",
+				"description":{
+								"under_desc":"",
+								"points":[
+									{
+										"exp":"Checked exceptions",
+										"desc2":"",
+										"java_code":"",
+										"kotlin_code":""
+
+									},
+									{
+										"exp":"Primitive types that are not classes",
+										"desc2":"",
+										"java_code":"",
+										"kotlin_code":""
+
+									},
+									{
+										"exp":"Static members",
+										"desc2":"",
+										"java_code":"",
+										"kotlin_code":""
+
+									},
+									{
+										"exp":"Non-private fields",
+										"desc2":"",
+										"java_code":"",
+										"kotlin_code":""
+
+									},
+									{
+										"exp":"Wildcard-types",
+										"desc2":"",
+										"java_code":"",
+										"kotlin_code":""
+
+									}
+
+								]
+
+				}
+
+			}
+
+		]
+	}
+}
